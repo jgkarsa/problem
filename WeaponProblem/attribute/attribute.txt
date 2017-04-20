@@ -1,0 +1,14 @@
+experimentTime: 1
+allRunTime: 1
+arrx: 14
+arry: 70
+initialSolutionSet: true
+duplicate: false
+population: 100
+totalThread: 1
+exchangeNum: 1
+totalRun: 2000
+errorRate: 0
+algorithm: geneticDuplicate
+------------------------------------
+
