@@ -1,0 +1,433 @@
+PingToPeer 2017-05-04(02:54)
+PingToPeer 2017-05-04(02:37)
+RunToPeer 2017-05-04(02:45)
+RunToPeer 2017-05-04(03:18)
+RunToPeer 2017-05-04(03:43)
+RunToPeer 2017-05-04(03:35)
+RunToPeer 2017-05-04(03:16)
+RunToPeer 2017-05-04(03:16)
+RunToPeer 2017-05-04(03:23)
+RunToPeer 2017-05-04(03:02)
+RunToPeer 2017-05-04(03:24)
+RunToPeer 2017-05-04(04:09)
+RunToPeer 2017-05-04(04:49)
+RunToPeer 2017-05-04(04:20)
+RunToPeer 2017-05-04(04:08)
+RunToPeer 2017-05-04(04:05)
+PingToPeer 2017-05-05(02:13)
+PingToPeer 2017-05-05(02:21)
+PingToPeer 2017-05-05(02:34)
+RunToPeer 2017-05-05(02:39)
+RunToPeer 2017-05-05(02:11)
+RunToPeer 2017-05-05(02:12)
+RunToPeer 2017-05-05(02:23)
+RunToPeer 2017-05-05(02:52)
+RunToPeer 2017-05-05(02:07)
+RunToPeer 2017-05-05(02:17)
+RunToPeer 2017-05-05(02:29)
+RunToPeer 2017-05-05(02:58)
+RunToPeer 2017-05-05(02:23)
+RunToPeer 2017-05-05(02:01)
+RunToPeer 2017-05-05(02:19)
+ParameterToPeer 2017-05-05(04:30) 0.5 0.5 10 300 genetic
+ParameterToPeer 2017-05-05(04:36) 0.5 0.5 10 500 genetic
+ParameterToPeer 2017-05-09(04:49) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:49)
+ParameterToPeer 2017-05-09(04:56) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:56)
+ParameterToPeer 2017-05-09(04:03) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:03)
+RunToPeer 2017-05-09(04:10)
+ParameterToPeer 2017-05-09(04:10) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:50)
+ParameterToPeer 2017-05-09(04:50) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:57)
+ParameterToPeer 2017-05-09(04:57) 0.5 0.5 10 500 genetic
+ParameterToPeer 2017-05-09(04:04) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:04)
+ParameterToPeer 2017-05-09(04:11) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:11)
+ParameterToPeer 2017-05-09(04:18) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:18)
+ParameterToPeer 2017-05-09(04:25) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(04:25)
+RunToPeer 2017-05-09(04:32)
+ParameterToPeer 2017-05-09(04:32) 0.5 0.5 10 500 genetic
+ParameterToPeer 2017-05-09(05:27) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(05:27)
+RunToPeer 2017-05-09(05:32)
+ParameterToPeer 2017-05-09(05:32) 0.5 0.5 10 500 genetic
+ParameterToPeer 2017-05-09(05:37) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(05:37)
+ParameterToPeer 2017-05-09(05:42) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(05:42)
+ParameterToPeer 2017-05-09(05:47) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(05:47)
+ParameterToPeer 2017-05-09(05:28) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(05:28)
+ParameterToPeer 2017-05-09(05:33) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(05:33)
+ParameterToPeer 2017-05-09(05:38) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(05:38)
+RunToPeer 2017-05-09(05:43)
+ParameterToPeer 2017-05-09(05:43) 0.5 0.5 10 500 genetic
+ParameterToPeer 2017-05-09(05:48) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-09(05:48)
+RunToPeer 2017-05-10(10:59)
+ParameterToPeer 2017-05-10(10:59) 0.5 0.5 10 500 genetic
+ParameterToPeer 2017-05-10(10:04) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:04)
+ParameterToPeer 2017-05-10(10:09) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:09)
+ParameterToPeer 2017-05-10(10:14) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:14)
+ParameterToPeer 2017-05-10(10:25) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:26)
+ParameterToPeer 2017-05-10(10:31) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:31)
+ParameterToPeer 2017-05-10(10:36) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:36)
+ParameterToPeer 2017-05-10(10:41) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:41)
+RunToPeer 2017-05-10(10:39)
+ParameterToPeer 2017-05-10(10:39) 0.5 0.5 10 500 genetic
+ParameterToPeer 2017-05-10(10:44) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:44)
+ParameterToPeer 2017-05-10(10:49) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:49)
+ParameterToPeer 2017-05-10(10:54) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:54)
+ParameterToPeer 2017-05-10(10:59) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:59)
+ParameterToPeer 2017-05-10(10:04) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:04)
+ParameterToPeer 2017-05-10(10:09) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:09)
+ParameterToPeer 2017-05-10(10:28) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:28)
+ParameterToPeer 2017-05-10(10:35) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:36)
+ParameterToPeer 2017-05-10(10:43) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:43)
+ParameterToPeer 2017-05-10(10:50) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:50)
+ParameterToPeer 2017-05-10(10:31) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:31)
+ParameterToPeer 2017-05-10(10:36) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:36)
+ParameterToPeer 2017-05-10(10:41) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:41)
+ParameterToPeer 2017-05-10(10:46) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:46)
+ParameterToPeer 2017-05-10(10:51) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:51)
+ParameterToPeer 2017-05-10(10:56) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:56)
+ParameterToPeer 2017-05-10(10:01) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:01)
+ParameterToPeer 2017-05-10(10:06) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:06)
+RunToPeer 2017-05-10(10:11)
+ParameterToPeer 2017-05-10(10:11) 0.5 0.5 10 500 genetic
+ParameterToPeer 2017-05-10(10:16) 0.5 0.5 10 500 genetic
+RunToPeer 2017-05-10(10:16)
+RunToPeer 2017-05-10(10:10)
+ParameterToPeer 2017-05-10(10:10) 0.5 0.5 10 500 genetic 0.0
+ParameterToPeer 2017-05-10(10:15) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:15)
+ParameterToPeer 2017-05-10(10:20) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:20)
+RunToPeer 2017-05-10(10:30)
+ParameterToPeer 2017-05-10(10:30) 0.5 0.5 10 500 genetic 0.0
+ParameterToPeer 2017-05-10(10:35) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:35)
+RunToPeer 2017-05-10(10:50)
+ParameterToPeer 2017-05-10(10:50) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:55)
+ParameterToPeer 2017-05-10(10:55) 0.5 0.5 10 500 genetic 0.0
+ParameterToPeer 2017-05-10(10:00) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:00)
+RunToPeer 2017-05-10(10:39)
+ParameterToPeer 2017-05-10(10:39) 0.5 0.5 10 500 genetic 0.0
+ParameterToPeer 2017-05-10(10:44) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:44)
+ParameterToPeer 2017-05-10(10:10) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:12)
+ParameterToPeer 2017-05-10(10:17) 0.5 0.5 10 500 genetic 0.0
+ParameterToPeer 2017-05-10(10:37) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:39)
+ParameterToPeer 2017-05-10(10:56) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:58)
+ParameterToPeer 2017-05-10(10:03) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:05)
+ParameterToPeer 2017-05-10(10:10) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:12)
+ParameterToPeer 2017-05-10(10:17) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:19)
+ParameterToPeer 2017-05-10(10:24) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:26)
+ParameterToPeer 2017-05-10(10:31) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:33)
+ParameterToPeer 2017-05-10(10:38) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:40)
+ParameterToPeer 2017-05-10(10:45) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:47)
+ParameterToPeer 2017-05-10(10:52) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:54)
+ParameterToPeer 2017-05-10(10:59) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:01)
+ParameterToPeer 2017-05-10(10:04) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:06)
+ParameterToPeer 2017-05-10(10:11) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:13)
+ParameterToPeer 2017-05-10(10:18) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:20)
+ParameterToPeer 2017-05-10(10:25) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:27)
+ParameterToPeer 2017-05-10(10:32) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:34)
+ParameterToPeer 2017-05-10(10:39) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:41)
+ParameterToPeer 2017-05-10(10:55) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:57)
+ParameterToPeer 2017-05-10(10:02) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:04)
+ParameterToPeer 2017-05-10(10:09) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:11)
+ParameterToPeer 2017-05-10(10:16) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:18)
+ParameterToPeer 2017-05-10(10:23) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:25)
+ParameterToPeer 2017-05-10(10:30) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:32)
+ParameterToPeer 2017-05-10(10:37) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:39)
+ParameterToPeer 2017-05-10(10:44) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:46)
+ParameterToPeer 2017-05-10(10:51) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:53)
+ParameterToPeer 2017-05-10(10:58) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:00)
+ParameterToPeer 2017-05-10(10:25) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:27)
+ParameterToPeer 2017-05-10(10:32) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:34)
+ParameterToPeer 2017-05-10(10:39) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:41)
+ParameterToPeer 2017-05-10(10:46) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:48)
+ParameterToPeer 2017-05-10(10:53) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:55)
+ParameterToPeer 2017-05-10(10:00) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:02)
+ParameterToPeer 2017-05-10(10:07) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:09)
+ParameterToPeer 2017-05-10(10:14) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:16)
+ParameterToPeer 2017-05-10(10:21) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:23)
+ParameterToPeer 2017-05-10(10:28) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(10:30)
+ParameterToPeer 2017-05-10(01:06) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:08)
+ParameterToPeer 2017-05-10(01:13) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:15)
+ParameterToPeer 2017-05-10(01:20) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:22)
+ParameterToPeer 2017-05-10(01:27) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:29)
+ParameterToPeer 2017-05-10(01:34) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:36)
+ParameterToPeer 2017-05-10(01:41) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:43)
+ParameterToPeer 2017-05-10(01:48) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:50)
+ParameterToPeer 2017-05-10(01:55) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:57)
+ParameterToPeer 2017-05-10(01:52) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:54)
+ParameterToPeer 2017-05-10(01:59) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:01)
+ParameterToPeer 2017-05-10(01:06) 0.5 0.5 10 500 genetic 0.0
+RunToPeer 2017-05-10(01:08)
+ParameterToPeer 2017-05-12(02:57) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-12(02:59)
+ParameterToPeer 2017-05-12(02:04) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-12(02:06)
+ParameterToPeer 2017-05-12(02:31) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-12(02:33)
+PingToPeer 2017-05-14(07:43)
+PingToPeer 2017-05-14(07:17)
+ParameterToPeer 2017-05-14(07:24) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-14(07:26)
+PingToPeer 2017-05-15(10:37)
+ParameterToPeer 2017-05-15(10:50) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:52)
+ParameterToPeer 2017-05-15(10:12) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:14)
+ParameterToPeer 2017-05-15(10:34) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:36)
+ParameterToPeer 2017-05-15(10:51) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:53)
+ParameterToPeer 2017-05-15(10:13) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:15)
+ParameterToPeer 2017-05-15(10:35) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:37)
+ParameterToPeer 2017-05-15(10:57) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:59)
+ParameterToPeer 2017-05-15(10:19) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:21)
+ParameterToPeer 2017-05-15(10:41) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:43)
+ParameterToPeer 2017-05-15(10:03) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:05)
+ParameterToPeer 2017-05-15(10:25) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:27)
+ParameterToPeer 2017-05-15(10:47) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:49)
+ParameterToPeer 2017-05-15(10:09) 0.5 0.5 10 500 genetic 0.5
+RunToPeer 2017-05-15(10:11)
+ParameterToPeer 2017-05-15(10:21) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(10:23)
+ParameterToPeer 2017-05-15(10:48) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(10:50)
+ParameterToPeer 2017-05-15(11:07) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(11:09)
+ParameterToPeer 2017-05-15(11:23) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(11:25)
+ParameterToPeer 2017-05-15(11:39) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(11:41)
+ParameterToPeer 2017-05-15(11:52) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(11:54)
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+( (action ( agent-identifier :name agent1@platform1  :addresses (sequence http://DESKTOP-RI5SETA:7778/acc )) (ACLMessage) ) (MTS-error ( agent-identifier :name agent2@platform2  :addresses (sequence http://140.113.127.32:7778/acc )) (internal-error "Foreign agent unreachable: No valid address contained within the AID agent2@platform2")) )
+ParameterToPeer 2017-05-15(01:52) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:54)
+ParameterToPeer 2017-05-15(01:41) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:43)
+ParameterToPeer 2017-05-15(01:03) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:05)
+ParameterToPeer 2017-05-15(01:24) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:26)
+ParameterToPeer 2017-05-15(01:58) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:00)
+ParameterToPeer 2017-05-15(01:25) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:27)
+ParameterToPeer 2017-05-15(01:52) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:54)
+ParameterToPeer 2017-05-15(01:19) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:21)
+ParameterToPeer 2017-05-15(01:32) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:34)
+ParameterToPeer 2017-05-15(01:59) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:01)
+ParameterToPeer 2017-05-15(01:26) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:28)
+ParameterToPeer 2017-05-15(01:53) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:55)
+ParameterToPeer 2017-05-15(01:20) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:22)
+PingToPeer 2017-05-15(01:44)
+ParameterToPeer 2017-05-15(01:49) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:51)
+ParameterToPeer 2017-05-15(01:30) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:32)
+ParameterToPeer 2017-05-15(01:53) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:55)
+ParameterToPeer 2017-05-15(01:07) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:09)
+ParameterToPeer 2017-05-15(01:34) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:36)
+ParameterToPeer 2017-05-15(01:35) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:37)
+ParameterToPeer 2017-05-15(01:02) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:04)
+ParameterToPeer 2017-05-15(01:29) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:31)
+ParameterToPeer 2017-05-15(01:56) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:58)
+ParameterToPeer 2017-05-15(01:23) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:25)
+ParameterToPeer 2017-05-15(01:58) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:00)
+ParameterToPeer 2017-05-15(01:16) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:18)
+ParameterToPeer 2017-05-15(01:07) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(01:09)
+ParameterToPeer 2017-05-15(02:53) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:55)
+ParameterToPeer 2017-05-15(02:20) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:22)
+ParameterToPeer 2017-05-15(02:31) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:33)
+ParameterToPeer 2017-05-15(02:04) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:06)
+ParameterToPeer 2017-05-15(02:23) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:25)
+ParameterToPeer 2017-05-15(02:44) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:46)
+ParameterToPeer 2017-05-15(02:08) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:10)
+ParameterToPeer 2017-05-15(02:41) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:43)
+ParameterToPeer 2017-05-15(02:08) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:10)
+ParameterToPeer 2017-05-15(02:35) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:37)
+ParameterToPeer 2017-05-15(02:02) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:04)
+ParameterToPeer 2017-05-15(02:51) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:53)
+ParameterToPeer 2017-05-15(02:18) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:20)
+ParameterToPeer 2017-05-15(02:28) 1.0 1.0 10 2000 genetic 0.0
+RunToPeer 2017-05-15(02:30)
+ParameterToPeer 2017-05-15(02:55) 1.0 1.0 10 2000 genetic 0.0
+RunToPeer 2017-05-15(02:57)
+ParameterToPeer 2017-05-15(02:15) 1.0 1.0 10 2000 genetic 0.0
+RunToPeer 2017-05-15(02:17)
+ParameterToPeer 2017-05-15(02:33) 1.0 1.0 10 2000 genetic 0.0
+RunToPeer 2017-05-15(02:35)
+ParameterToPeer 2017-05-15(02:15) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(02:17)
+ParameterToPeer 2017-05-15(03:29) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:31)
+ParameterToPeer 2017-05-15(03:56) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:58)
+ParameterToPeer 2017-05-15(03:09) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:11)
+ParameterToPeer 2017-05-15(03:05) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:07)
+ParameterToPeer 2017-05-15(03:49) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:51)
+ParameterToPeer 2017-05-15(03:54) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:56)
+ParameterToPeer 2017-05-15(03:02) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:04)
+ParameterToPeer 2017-05-15(03:22) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:24)
+ParameterToPeer 2017-05-15(03:24) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:26)
+ParameterToPeer 2017-05-15(03:51) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:53)
+ParameterToPeer 2017-05-15(03:14) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(03:16)
+ParameterToPeer 2017-05-15(04:44) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(04:46)
+ParameterToPeer 2017-05-15(04:11) 1.0 1.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(04:13)
+ParameterToPeer 2017-05-15(06:29) 2.0 2.0 10 2100 genetic 0.0
+RunToPeer 2017-05-15(06:31)
+ParameterToPeer 2017-05-19(02:28) 1.0 1.0 10 2900 randomalgorithm 0.0
+RunToPeer 2017-05-19(02:30)
+ParameterToPeer 2017-05-19(02:55) 1.0 1.0 10 2900 randomalgorithm 0.0
+RunToPeer 2017-05-19(02:57)
+ParameterToPeer 2017-05-19(02:22) 1.0 1.0 10 2900 randomalgorithm 0.0
+RunToPeer 2017-05-19(02:24)

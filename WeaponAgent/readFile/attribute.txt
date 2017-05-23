@@ -1,0 +1,19 @@
+experimentTime: 1
+allRunTime: 10
+delayTime: 0.8
+periodTime: 0.5
+arrx: 14
+arry: 70
+initialSolutionSet: true
+population: 100
+exchangeNum: 10
+totalRun: 1000
+errorRate: 0
+algorithm: genetic
+weaponNum: 1
+oneSecondGenetic: 2100
+oneSecondPSO: 2700
+oneSecondABC: 1500
+oneSecondRandom: 2900
+------------------------------------
+
