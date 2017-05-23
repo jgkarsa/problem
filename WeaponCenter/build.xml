@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="project" default="build">
+ 
+    <!--
+    透過 property 定義變數，在編譯過程引用。這些變數也能在呼叫 Ant 時被覆寫
+    例如：透過指定不同的設定檔路徑來區分『開發環境』、『測試環境』與『正式環境』的部署
+    -->
+ 
+    <property name="src.dir" value="src" />
+    <property name="lib.dir" value="lib" />
+    <property name="build.dir" value="build" />
+ 
+    <target name="build">
+        <!-- 建立 build 目錄放置 javac 產出的 .class 檔 -->
+        <mkdir dir="${build.dir}" />
+ 
+        <!-- 
+            呼叫 javac task，並指定 src 目錄為 source code 的目錄，
+            build 目錄為輸出 .class 的目錄
+        -->
+        <javac srcdir="${src.dir}" destdir="${build.dir}">
+            <!-- classpath 與 fileset DataType 方便開發者處理路徑與檔案列表的問題 -->
+            <classpath>
+                <fileset dir="${lib.dir}">
+                    <include name="**/*.jar" />
+                </fileset>
+            </classpath>
+        </javac>
+    </target>
+</project>

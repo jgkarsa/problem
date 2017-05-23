@@ -1,0 +1,16 @@
+PeerNode: 14
+peerAddress: 1 10.140.0.2
+peerAddress: 2 10.140.0.3
+peerAddress: 3 10.140.0.4
+peerAddress: 4 10.140.0.5
+peerAddress: 5 10.140.0.6
+peerAddress: 6 10.140.0.7
+peerAddress: 7 10.140.0.8
+peerAddress: 8 10.140.0.9
+peerAddress: 9 10.140.0.10
+peerAddress: 10 10.140.0.11
+peerAddress: 11 10.140.0.12
+peerAddress: 12 10.140.0.13
+peerAddress: 13 10.140.0.14
+peerAddress: 14 10.140.0.15
+centerAddress: 15 10.140.0.16
